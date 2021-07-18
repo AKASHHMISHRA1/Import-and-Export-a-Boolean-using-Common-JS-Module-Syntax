@@ -1,1 +1,2 @@
-exports = true;
+let val = true;
+module.exports = val;
